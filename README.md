@@ -447,28 +447,38 @@ Controls:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/the-walking-dead-fan-website.git
+git clone https://github.com/QuantumGlitch404/The-Walking-Dead.git
 ```
 
 Navigate into the project directory:
 
 ```bash
-cd the-walking-dead-fan-website
+cd The-Walking-Dead
 ```
 
-Open:
+Open the project:
 
 ```text
 index.html
 ```
 
-in any modern browser.
+You can either:
+
+* Double-click `index.html`
+* Open it with your preferred browser
+* Use VS Code Live Server
 
 No additional setup is required.
 
 No dependencies are required.
 
+No package manager is required.
+
 No build process is required.
+
+No backend server is required.
+
+This project runs entirely in the browser using HTML and CSS.
 
 ---
 
